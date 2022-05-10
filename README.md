@@ -1,3 +1,3 @@
 # Mine-Sweeper
 
-Minesweeper using JavaFx
+School project Minesweeper using JavaFx
